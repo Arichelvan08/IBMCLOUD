@@ -1,4 +1,3 @@
-# IBMCLOUD
 # Food-Image-Recognition
 
 <!-- PROJECT SHIELDS -->
